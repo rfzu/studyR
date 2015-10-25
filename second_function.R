@@ -34,3 +34,5 @@ f <- function(x) {
 g <- function(x) {
     x*y
 }
+
+f(1)
